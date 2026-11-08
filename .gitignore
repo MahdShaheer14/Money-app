@@ -1,0 +1,11 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+kspout/
+out/
+# Local signing material and built APKs
+*.jks
+*.keystore
+*.apk
